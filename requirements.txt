@@ -8,3 +8,8 @@ tiktoken
 langchain_openai
 langchain_core
 unstructured[pdf]
+rank_bm25
+nltk
+sentence-transformers
+unstructured
+redis
